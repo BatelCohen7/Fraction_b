@@ -1,5 +1,5 @@
 # Fraction
-Task 3 part a - CPP Course
+Task 3 part b - CPP Course
 ## The task:
 Implement class named Ftaction.cpp that represents a fraction of two integers.</div>
 Overload the following operators for this class:</div>
