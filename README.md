@@ -37,6 +37,8 @@ Overload the following operators for this class:</div>
 
 </div>
 ## my results:</div>
+</div>
+
 ![2](https://user-images.githubusercontent.com/93344134/236044849-b3a8660f-5620-443e-ba33-60a3d1ecf5e0.jpg)</div>
 
 ![1](https://user-images.githubusercontent.com/93344134/236044878-7a60ba4b-c4c2-4e37-8fc3-599f28f8a868.jpg)</div>
