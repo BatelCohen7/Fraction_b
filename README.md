@@ -1,7 +1,7 @@
 # Fraction
 Task 3 part b - CPP Course
 ## The task:
-Implement class named Ftaction.cpp that represents a fraction of two integers.</div>
+Implemention of class named Ftaction.cpp that represents a fraction of two integers.</div>
 Overload the following operators for this class:</div>
 
     The + operator to add two fractions and return their sum as another fraction in reduced form.
