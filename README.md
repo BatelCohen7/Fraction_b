@@ -36,7 +36,9 @@ Overload the following operators for this class:</div>
 	bash grade
 
 </div>
+
 ## my results:</div>
+
 </div>
 
 ![2](https://user-images.githubusercontent.com/93344134/236044849-b3a8660f-5620-443e-ba33-60a3d1ecf5e0.jpg)</div>
