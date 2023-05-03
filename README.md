@@ -22,8 +22,8 @@ Write a **Test** class named Test.cpp that represents a tests for following oper
 
     make demo && ./demo
 	make test && ./test
-  make test1 && ./test1
-  make test2 && ./test2
+  	make test1 && ./test1
+  	make test2 && ./test2
   
 
 </div>
