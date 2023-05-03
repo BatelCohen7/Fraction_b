@@ -36,5 +36,15 @@ Overload the following operators for this class:</div>
 	bash grade
 
 </div>
-
 ## my results:</div>
+![2](https://user-images.githubusercontent.com/93344134/236044849-b3a8660f-5620-443e-ba33-60a3d1ecf5e0.jpg)</div>
+
+![1](https://user-images.githubusercontent.com/93344134/236044878-7a60ba4b-c4c2-4e37-8fc3-599f28f8a868.jpg)</div>
+
+![3](https://user-images.githubusercontent.com/93344134/236044949-22b9ab30-efa0-4dce-aa7b-639c8449460e.jpg)</div>
+
+![4](https://user-images.githubusercontent.com/93344134/236044968-b39afe0b-ff0b-47ae-9444-7432652819fe.jpg)</div>
+
+
+
+
