@@ -1,8 +1,8 @@
 # Fraction
 Task 3 part a - CPP Course
 ## The task:
-Write a **Test** class named Test.cpp that represents a tests for following operators</div>
-(that implement in Fraction.cpp class): </div>
+Implement class named Ftaction.cpp that represents a fraction of two integers.</div>
+Overload the following operators for this class:</div>
 
     The + operator to add two fractions and return their sum as another fraction in reduced form.
     The - operator to subtract two fractions and return their difference as another fraction in reduced form.
@@ -33,6 +33,7 @@ Write a **Test** class named Test.cpp that represents a tests for following oper
     make tidy
     make valgrind
     make run
+	bash grade
 
 </div>
 
